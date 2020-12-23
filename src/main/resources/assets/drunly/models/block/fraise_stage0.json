@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "drunly:blocks/fraise_stage_0"
+    }
+}

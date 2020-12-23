@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "S",
+        "S"
+    ],
+    "key": {
+        "#": {
+            "item": "drunly:cobalt_ingot",
+            "data": 0
+        },
+        "S": {
+            "item": "minecraft:stick",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "drunly:cobalt_shovel",
+        "data": 0
+    }
+}

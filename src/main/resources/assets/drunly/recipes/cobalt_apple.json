@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#B#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "drunly:cobalt_ingot",
+            "data": 0
+        },
+        "B": {
+            "item": "minecraft:apple",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "drunly:cobalt_apple",
+        "data": 0
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "age=0": { "model": "drunly:erable_stage0" },
+        "age=1": { "model": "drunly:erable_stage1" },
+        "age=2": { "model": "drunly:erable_stage2" },
+        "age=3": { "model": "drunly:erable_stage3" },
+        "age=4": { "model": "drunly:erable_stage4" },
+        "age=5": { "model": "drunly:erable_stage5" },
+        "age=6": { "model": "drunly:erable_stage6" },
+        "age=7": { "model": "drunly:erable_stage7" }
+    }
+}

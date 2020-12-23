@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "B"
+    ],
+    "key": {
+        "#": {
+            "item": "drunly:trefle_modifier",
+            "data": 0
+        },
+        "B": {
+            "item": "drunly:empty_seed_planter",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "drunly:trefle_seed_planter",
+        "data": 0
+    }
+}

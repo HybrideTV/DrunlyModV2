@@ -1,0 +1,7 @@
+{
+    "parent": "item/bow",
+    "textures": 
+    {
+        "layer0": "drunly:items/cobalt_bow_2"
+    }
+}

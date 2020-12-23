@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "BBB",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:paper",
+            "data": 0
+        },
+        "B": {
+            "item": "drunly:cannabis_cooked_leaf",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "drunly:join",
+        "data": 0
+    }
+}

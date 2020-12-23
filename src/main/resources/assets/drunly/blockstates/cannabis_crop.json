@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "age=0": { "model": "drunly:cannabis_stage0" },
+        "age=1": { "model": "drunly:cannabis_stage1" },
+        "age=2": { "model": "drunly:cannabis_stage2" },
+        "age=3": { "model": "drunly:cannabis_stage2" },
+        "age=4": { "model": "drunly:cannabis_stage2" },
+        "age=5": { "model": "drunly:cannabis_stage2" },
+        "age=6": { "model": "drunly:cannabis_stage2" },
+        "age=7": { "model": "drunly:cannabis_stage7" }
+    }
+}

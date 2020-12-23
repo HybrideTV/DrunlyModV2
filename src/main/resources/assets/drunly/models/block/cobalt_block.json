@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "drunly:blocks/cobalt_block"
+    }
+}

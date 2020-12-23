@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "age=0": { "model": "drunly:riz_stage0" },
+        "age=1": { "model": "drunly:riz_stage1" },
+        "age=2": { "model": "drunly:riz_stage2" },
+        "age=3": { "model": "drunly:riz_stage3" },
+        "age=4": { "model": "drunly:riz_stage4" },
+        "age=5": { "model": "drunly:riz_stage5" },
+        "age=6": { "model": "drunly:riz_stage6" },
+        "age=7": { "model": "drunly:riz_stage7" }
+    }
+}

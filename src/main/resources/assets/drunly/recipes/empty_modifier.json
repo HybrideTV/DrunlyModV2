@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "#B#",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:iron_block",
+            "data": 0
+        },
+        "B": {
+            "item": "drunly:rubis_ingot",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "drunly:empty_modifier",
+        "data": 0
+    }
+}

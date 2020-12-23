@@ -1,0 +1,9 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "drunly:blocks/white_tnt_bottom",
+        "top": "drunly:blocks/white_tnt_top",
+        "side": "drunly:blocks/white_tnt_side",
+        "explode": "drunly:blocks/white_tnt_side"
+    }
+}

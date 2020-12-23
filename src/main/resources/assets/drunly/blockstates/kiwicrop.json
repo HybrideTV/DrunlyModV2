@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "age=0": { "model": "drunly:kiwi_stage0" },
+        "age=1": { "model": "drunly:kiwi_stage1" },
+        "age=2": { "model": "drunly:kiwi_stage2" },
+        "age=3": { "model": "drunly:kiwi_stage3" },
+        "age=4": { "model": "drunly:kiwi_stage4" },
+        "age=5": { "model": "drunly:kiwi_stage5" },
+        "age=6": { "model": "drunly:kiwi_stage6" },
+        "age=7": { "model": "drunly:kiwi_stage7" }
+    }
+}

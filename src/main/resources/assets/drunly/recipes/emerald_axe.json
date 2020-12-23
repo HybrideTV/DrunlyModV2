@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##",
+        "#S",
+        " S"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:emerald",
+            "data": 0
+        },
+        "S": {
+            "item": "minecraft:stick",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "drunly:emerald_axe",
+        "data": 0
+    }
+}

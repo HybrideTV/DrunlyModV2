@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#S#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:glass",
+            "data": 0
+        },
+        "S": {
+            "item": "drunly:uranium_ingot",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "drunly:cave_block",
+        "data": 0
+    }
+}

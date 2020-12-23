@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#G#",
+        "GGG"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:slime_ball",
+            "data": 0
+        },
+        "B": {
+            "item": "drunly:rubis_ingot",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "drunly:turtle_helmet",
+        "data": 0
+    }
+}

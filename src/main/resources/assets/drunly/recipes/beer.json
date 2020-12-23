@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#B#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:wheat",
+            "data": 0
+        },
+        "B": {
+            "item": "minecraft:hay_block",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "drunly:beer",
+        "data": 0
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        " S "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:cobblestone",
+            "data": 0
+        },
+        "S": {
+            "item": "minecraft:stick",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "drunly:stone_hammer",
+        "data": 0
+    }
+}

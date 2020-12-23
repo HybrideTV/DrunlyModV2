@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "B"
+    ],
+    "key": {
+        "#": {
+            "item": "drunly:tomato_modifier",
+            "data": 0
+        },
+        "B": {
+            "item": "drunly:empty_seed_planter",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "drunly:tomato_seed_planter",
+        "data": 0
+    }
+}

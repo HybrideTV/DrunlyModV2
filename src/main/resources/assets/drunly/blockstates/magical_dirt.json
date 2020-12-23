@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "moisture=0": { "model": "magical_dirt_dry" },
+        "moisture=1": { "model": "magical_dirt_dry" },
+        "moisture=2": { "model": "magical_dirt_dry" },
+        "moisture=3": { "model": "magical_dirt_dry" },
+        "moisture=4": { "model": "magical_dirt_dry" },
+        "moisture=5": { "model": "magical_dirt_dry" },
+        "moisture=6": { "model": "magical_dirt_dry" },
+        "moisture=7": { "model": "magical_dirt_moist" }
+    }
+}

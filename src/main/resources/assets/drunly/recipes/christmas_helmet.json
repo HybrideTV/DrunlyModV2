@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#B#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:wool",
+            "data": 0
+        },
+        "B": {
+            "item": "minecraft:iron_helmet",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "drunly:christmas_helmet",
+        "data": 0
+    }
+}

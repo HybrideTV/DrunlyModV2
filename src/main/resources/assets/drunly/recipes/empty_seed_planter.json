@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        " B ",
+        "AAA"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:stick",
+            "data": 0
+        },
+        "B": {
+            "item": "drunly:empty_modifier",
+            "data": 0
+        },
+        "A": {
+            "item": "minecraft:iron_block",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "drunly:empty_seed_planter",
+        "data": 0
+    }
+}

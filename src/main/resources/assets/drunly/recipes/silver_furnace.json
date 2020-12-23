@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#B#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "drunly:acier",
+            "data": 0
+        },
+        "B": {
+            "item": "minecraft:furnace",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "drunly:SILVER_FURNACE_OFF",
+        "data": 0
+    }
+}

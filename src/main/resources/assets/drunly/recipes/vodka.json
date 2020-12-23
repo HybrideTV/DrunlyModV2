@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#B#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:wheat",
+            "data": 0
+        },
+        "B": {
+            "item": "minecraft:apple",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "drunly:vodka",
+        "data": 0
+    }
+}

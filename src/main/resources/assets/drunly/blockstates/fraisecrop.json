@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "age=0": { "model": "drunly:fraise_stage0" },
+        "age=1": { "model": "drunly:fraise_stage0" },
+        "age=2": { "model": "drunly:fraise_stage1" },
+        "age=3": { "model": "drunly:fraise_stage1" },
+        "age=4": { "model": "drunly:fraise_stage1" },
+        "age=5": { "model": "drunly:fraise_stage2" },
+        "age=6": { "model": "drunly:fraise_stage2" },
+        "age=7": { "model": "drunly:fraise_stage3" }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "#",
+        "S"
+    ],
+    "key": {
+        "#": {
+            "item": "drunly:hematite_ingot",
+            "data": 0
+        },
+        "S": {
+            "item": "drunly:gold_stick",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "drunly:hematite_sword",
+        "data": 0
+    }
+}

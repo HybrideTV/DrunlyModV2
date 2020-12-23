@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "C C",
+        "B B"
+    ],
+    "key": {
+        "B": {
+            "item": "drunly:acier",
+            "data": 0
+        },
+        "C": {
+            "item": "minecraft:leather",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "drunly:boost_boots",
+        "data": 0
+    }
+}

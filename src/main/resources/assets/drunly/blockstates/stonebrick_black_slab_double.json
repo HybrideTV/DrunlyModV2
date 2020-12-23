@@ -1,0 +1,6 @@
+{
+    "variants":
+    {
+        "variant=default": { "model": "drunly:stonebrick_black_slab_double" }
+    }
+}

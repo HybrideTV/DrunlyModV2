@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "drunly:blocks/courgette_stage_6"
+    }
+}

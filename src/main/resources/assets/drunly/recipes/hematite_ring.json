@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "# #",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "drunly:hematite_block",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "drunly:hematite_ring",
+        "data": 0
+    }
+}

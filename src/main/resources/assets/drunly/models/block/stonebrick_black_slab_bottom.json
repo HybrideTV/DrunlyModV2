@@ -1,0 +1,9 @@
+{
+    "parent": "block/half_slab",
+    "textures":
+    {
+        "bottom": "drunly:blocks/stonebrick_black",
+        "top": "drunly:blocks/stonebrick_black",
+        "side": "drunly:blocks/stonebrick_black"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#B#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "drunly:erable",
+            "data": 0
+        },
+        "B": {
+            "item": "minecraft:potion",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "drunly:erable_potion",
+        "data": 0
+    }
+}

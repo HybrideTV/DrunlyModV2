@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "B"
+    ],
+    "key": {
+        "#": {
+            "item": "drunly:myrtille_modifier",
+            "data": 0
+        },
+        "B": {
+            "item": "drunly:empty_seed_planter",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "drunly:myrtille_seed_planter",
+        "data": 0
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#B#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:potato",
+            "data": 0
+        },
+        "B": {
+            "item": "drunly:empty_modifier",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "drunly:potato_modifier",
+        "data": 0
+    }
+}

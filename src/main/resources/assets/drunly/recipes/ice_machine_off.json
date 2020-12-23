@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "C#C",
+        "#E#",
+        "C#C"
+    ],
+    "key": {
+        "#": {
+            "item": "drunly:rubis_block",
+            "data": 0
+        },
+        "C": {
+            "item": "drunly:cobalt_block",
+            "data": 0
+        },
+        "E": {
+            "item": "minecraft:emerald_block",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "drunly:ice_machine_off",
+        "data": 0
+    }
+}

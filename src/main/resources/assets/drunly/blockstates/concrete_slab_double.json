@@ -1,0 +1,6 @@
+{
+    "variants":
+    {
+        "variant=default": { "model": "drunly:concrete_slab_double" }
+    }
+}

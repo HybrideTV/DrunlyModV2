@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "drunly:bambou",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "drunly:bambou_block",
+        "data": 0
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "X# ",
+        "X #",
+        "X# "
+    ],
+    "key": {
+        "#": {
+            "item": "drunly:rubis_ingot",
+            "data": 0
+        },
+        "X": {
+            "item": "minecraft:string",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "drunly:rubis_bow",
+        "data": 0
+    }
+}

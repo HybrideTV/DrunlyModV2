@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "# #",
+        "# #",
+        "   "
+    ],
+    "key": {
+        "#": {
+            "item": "drunly:drunlyk_ingot",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "drunly:drunlyk_boots",
+        "data": 0
+    }
+}

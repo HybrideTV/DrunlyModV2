@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "F",
+        "#",
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:tnt",
+            "data": 0
+        },
+        "F": {
+            "item": "minecraft:string",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "drunly:dynamite",
+        "data": 0
+    }
+}

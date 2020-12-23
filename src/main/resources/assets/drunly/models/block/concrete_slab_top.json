@@ -1,0 +1,9 @@
+{
+    "parent": "block/upper_slab",
+    "textures":
+    {
+        "bottom": "drunly:blocks/concrete_block",
+        "top": "drunly:blocks/concrete_block",
+        "side": "drunly:blocks/concrete_block"
+    }
+}

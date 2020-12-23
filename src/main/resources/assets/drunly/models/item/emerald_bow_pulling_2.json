@@ -1,0 +1,7 @@
+{
+    "parent": "item/bow",
+    "textures": 
+    {
+        "layer0": "drunly:items/emerald_bow_2"
+    }
+}

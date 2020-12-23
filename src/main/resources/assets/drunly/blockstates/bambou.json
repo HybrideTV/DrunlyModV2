@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "age=0": { "model": "drunly:bambou" },
+        "age=1": { "model": "drunly:bambou" },
+        "age=2": { "model": "drunly:bambou" },
+        "age=3": { "model": "drunly:bambou" },
+        "age=4": { "model": "drunly:bambou" },
+        "age=5": { "model": "drunly:bambou" },
+        "age=6": { "model": "drunly:bambou" },
+        "age=7": { "model": "drunly:bambou" },
+        "age=8": { "model": "drunly:bambou" },
+        "age=9": { "model": "drunly:bambou" },
+        "age=10": { "model": "drunly:bambou" },
+        "age=11": { "model": "drunly:bambou" },
+        "age=12": { "model": "drunly:bambou" },
+        "age=13": { "model": "drunly:bambou" },
+        "age=14": { "model": "drunly:bambou" },
+        "age=15": { "model": "drunly:bambou" }
+    }
+}

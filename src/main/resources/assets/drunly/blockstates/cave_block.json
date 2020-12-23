@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "drunly:cave_block" }
+    }
+}
