@@ -1,4 +1,5 @@
 # DrunlyModV2
-Mod du serveur Drunly - Dernières mises à jour dessus.
-Aucune patch ne sera déployé pour les bugs.
-Utilisation personnelle autorisée mais pas commerciale.
+##### Mod used on a pvp faction server 1.12.2. 
+#####  Since the server is closed, the source code is made available to everyone.
+##### You are free to use and modify it. 
+##### The mod contains bugs so you will have to fix them yourself. No support will be released.
